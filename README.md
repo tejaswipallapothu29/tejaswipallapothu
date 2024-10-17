@@ -2,7 +2,7 @@
 <br/>
 Welcome to my portfolio!
 <br/>
-My name is Tejaswi Pallapothu. I love working with data which led me to work in the IT field I've been working in the industry for sometime now. Besides this, I love learning new spoken languages, painting and cooking.
+My name is Tejaswi Pallapothu. I love working with data which led me to work in the IT field I've been working in the industry for sometime now. Besides this, I love doing yoga, painting, cooking and biking.
 <br/>
 <br/>
 💡 Problem Solver: Passionate about solving complex problems through elegant and efficient code solutions.<br/>
