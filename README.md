@@ -9,3 +9,7 @@ My name is Tejaswi Pallapothu. I love working with data which led me to work in 
 🤖 Data Engineering enthusiast: Exploring the world of data engineering, modelling and warehousing, experimenting with machine learning models and data analysis on complex datasets.<br/>
 🌍 Global Perspective: Eager to work on projects with an international reach, fostering a diverse and inclusive tech community.<br/>
 📊 Data Visualization: Proficient in creating interactive and insightful data visualizations using tools like Tableau.<br/>
+</br>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
