@@ -11,5 +11,5 @@ My name is Tejaswi Pallapothu. I love working with data which led me to work in 
 📊 Data Visualization: Proficient in creating interactive and insightful data visualizations using tools like Tableau.<br/>
 </br>
 <div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif" width="500"/>
+  <img src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif" width="300"/>
 </div>
