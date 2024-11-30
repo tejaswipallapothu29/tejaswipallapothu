@@ -15,13 +15,15 @@ My name is Tejaswi Pallapothu. I love working with data which led me to work in 
 </div>
 ## 🚀 Technologies & Tools
 
-
 - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 - ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat-square)
 - ![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white&style=flat-square)
+- ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=flat-square)  
 - Data Engineering: **AWS Glue, S3, Redshift, PySpark, Lambda, Data modelling, Datawarehousing**  
 - Data Analysis: **Python, SQL, and Tableau**  
 - Version Control & CI/CD: **GitHub and Terraform**  
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat-square) ![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white&style=flat-square) ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white&style=flat-square) ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=flat-square)
 
 ## 🌐 Find Me Online
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/tejaswi-pallapothu/)  
