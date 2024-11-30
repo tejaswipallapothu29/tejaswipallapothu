@@ -14,6 +14,7 @@ My name is Tejaswi Pallapothu. I love working with data which led me to work in 
   <img src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif" width="300"/>
 </div>
 ## 🚀 Technologies & Tools
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 - Data Engineering: **AWS Glue, S3, Redshift, PySpark, and Terraform**  
 - Data Analysis: **Python, SQL, and Tableau**  
 - Version Control & CI/CD: **GitHub Actions and Terraform**  
